@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    },
+    "OOP_SOLID_DI": {
+      "commandName": "Project"
+    }
+  }
+}
