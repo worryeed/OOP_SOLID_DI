@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_SOLID_DI", "OOP_SILOD_DI\OOP_SOLID_DI.csproj", "{0A49552B-5E97-4F46-BB58-10C6E2AC0550}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP_SOLID_DI", "OOP_SOLID_DI\OOP_SOLID_DI.csproj", "{0A49552B-5E97-4F46-BB58-10C6E2AC0550}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
