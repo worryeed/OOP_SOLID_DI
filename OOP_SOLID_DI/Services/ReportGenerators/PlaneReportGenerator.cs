@@ -9,7 +9,7 @@ public class PlaneReportGenerator : IReportGenerator<IPlane>
 
     public PlaneReportGenerator(IReportFormatStrategy<IPlane> formatStrategy)
     {
-        _formatStrategy = formatStrategy;
+        _formatStrategy = formatStrategy ?? throw new ArgumentNullException(nameof(formatStrategy));
     }
 
     public string? GenerateReport(List<IPlane>? values)
